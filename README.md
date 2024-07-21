@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alea000
+- 👀 I’m mainly interested in OOP mainly Java.
+- 🌱 I’m currently learning some COBOL. 
+- 📫 How to reach me malea.vaquero@gmail.com
