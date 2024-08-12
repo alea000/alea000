@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alea000
 - 👀 I’m mainly interested in OOP mainly Java with Spring Framework.
-- 🌱 I’m currently learning some COBOL too. 
+- 🌱 Learning some mainframe skills too. 
 - 📫 How to reach me malea.vaquero@gmail.com
